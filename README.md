@@ -1,1 +1,1 @@
-이것은 Git수업 입니다.
+This is Git-Test  Repository
